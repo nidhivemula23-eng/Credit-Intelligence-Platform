@@ -58,10 +58,10 @@ Full scoring thresholds, ratio definitions, and methodology notes (including how
 
 ## Key Findings
 
-* **FMCG was the strongest sector every single year** (avg. FY2025 score: 84.9) — low debt, stable margins, structurally different risk profile from every other sector studied.
-* **Steel showed the sharpest single-year swing** in the dataset — a 17-point average score drop in FY2023, driven by a real, documented industry-wide input-cost and export-duty shock.
-* **Revenue growth alone isn't a reliable credit signal** — one company in this study grew revenue every year for four years while its credit rating still declined, because leverage and core profitability moved the opposite way.
-* **Cash flow and accounting profit can tell opposite stories** — two companies in the Telecom sector show strongly positive operating cash flow *despite* large reported net losses, a pattern explained by heavy non-cash depreciation rather than genuine unprofitability.
+* **FMCG was the strongest sector every single year** (avg. FY2025 score: 84.9): low debt, stable margins, structurally different risk profile from every other sector studied.
+* **Steel showed the sharpest single-year swing** in the dataset: a 17-point average score drop in FY2023, driven by a real, documented industry-wide input-cost and export-duty shock.
+* **Revenue growth alone isn't a reliable credit signal**: one company in this study grew revenue every year for four years while its credit rating still declined, because leverage and core profitability moved the opposite way.
+* **Cash flow and accounting profit can tell opposite stories** : two companies in the Telecom sector show strongly positive operating cash flow *despite* large reported net losses, a pattern explained by heavy non-cash depreciation rather than genuine unprofitability.
 
 ## Data Sources
 
