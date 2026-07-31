@@ -1,6 +1,6 @@
 # Credit Intelligence Platform
 
-**Financial Health \& Credit Risk Assessment of Indian Listed Companies (FY2021–FY2025)**
+**Financial Health \& Credit Risk Assessment of Indian Listed Companies (FY2021 - FY2025)**
 
 A self-built, end-to-end credit rating system modelled on how agencies like CRISIL and ICRA assess corporate credit risk, covering 20 NSE/BSE-listed companies across four sectors. Built from scratch, including learning SQL and Power BI during the project itself.
 
