@@ -1,4 +1,7 @@
+
 -- CREDIT INTELLIGENCE PLATFORM - DATABASE SCHEMA
+
+
 
 -- TABLE 1: COMPANIES (the "master" table- every other table
 -- points back to this one)
@@ -11,6 +14,7 @@ CREATE TABLE Companies (
     sector          VARCHAR(50)  NOT NULL,
     listing_year    INT
 );
+
 
 -- TABLE 2: INCOME_STATEMENT (one row per company per year)
 
@@ -61,6 +65,7 @@ CREATE TABLE Cash_Flow (
     capex           NUMERIC(15,2),
     UNIQUE(company_id, fiscal_year)
 );
+
 
 
 -- TABLE 5: RATIOS 
@@ -114,4 +119,3 @@ INSERT INTO Companies (company_name, ticker, sector, listing_year) VALUES
 
 
 SELECT * FROM Companies ORDER BY sector, company_name;
-
