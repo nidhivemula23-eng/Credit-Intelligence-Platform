@@ -75,6 +75,7 @@ Nidhi Bhagwandas Vemula
 ## Here are some of the visuals of the project
 <img width="681" height="844" alt="image" src="https://github.com/user-attachments/assets/ae1ee82f-6b21-43ae-98dd-dbab5944d328" />
 
+
 <img width="912" height="434" alt="image" src="https://github.com/user-attachments/assets/87854182-65e1-43e5-ad69-4737989ba353" />
 
 
